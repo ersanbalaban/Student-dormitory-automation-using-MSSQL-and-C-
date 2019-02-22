@@ -1,0 +1,37 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.OgrenciYurt.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Ogrenci.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Adresler.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Bankalar.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Bolumler.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Izinler.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Odemeler.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Personel.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Yurt.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.yurtPersonelBirimleri.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe.config
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.exe
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\bin\Debug\VeriTabaniProje.pdb
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Adresler.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Bankalar.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Bolumler.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.OgrenciYurt.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Izinler.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Odemeler.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Ogrenci.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Personel.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Properties.Resources.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.Yurt.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.yurtPersonelBirimleri.resources
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.exe
+C:\Users\Lenovo\Documents\DPU\3.sınıf\1.Dönem\veri tabanı yönetim sistemleri\ErsanBalaban(201613172909)VeriTabaniProje\VeriTabaniProje\VeriTabaniProje\obj\Debug\VeriTabaniProje.pdb
